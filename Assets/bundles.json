@@ -1,0 +1,12 @@
+{
+  "manifest": [
+    {
+      "key": "JustNU/Backpacks/backpack_ryzhy_bag/item_equipment_backpack_ryzhy.bundle",
+      "dependencyKeys": [
+		"assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    }
+  ]
+}

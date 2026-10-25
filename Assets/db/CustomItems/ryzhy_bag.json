@@ -1,0 +1,28 @@
+{
+  "653277790e1cf7803b0812d4": {
+    "itemTplToClone": "5f5e45cc5021ce62144be7aa",
+    "parentId": "5448e53e4bdc2d60728b4567",
+    "handbookParentId": "5b5f6f6c86f774093f2ecf0b",
+    "overrideProperties": {
+      "Prefab": {
+        "path": "JustNU/Backpacks/backpack_ryzhy_bag/item_equipment_backpack_ryzhy.bundle",
+        "rcid": ""
+      },
+	  "Weight": 1.55,
+	  "mousePenalty": 0,
+	  "speedPenaltyPercent": 0,
+	  "weaponErgonomicPenalty": -2,
+	  "Width": 3,
+	  "Height": 4
+    },
+    "handbookPriceRoubles": 18000,
+    "fleaPriceRoubles": 24168,
+    "locales": {
+      "en": {
+        "name": "GP-5 gas mask bag",
+        "shortName": "Gas mask bag",
+        "description": "A simple bag of a difficult person."
+      }
+    }
+  }
+}
