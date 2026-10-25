@@ -1,0 +1,17 @@
+{
+  "SomeDouble": 6.7,  // Comments allowed in jsonc
+  "SomeInt": 5,
+  "SomeString": "hi",
+  "SomeBool": true,
+  "NestedDictionary":
+  {
+    "NestedString": "we need to go deeper",
+    "NestedString2":  "and deeper..."
+  },
+  "ListOfIds":
+  [
+    "SOME_VALID_MONGOID",
+    "SOME_OTHER_MONGOID",
+    "YET_ANOTHER_MONGOID"
+  ]
+}

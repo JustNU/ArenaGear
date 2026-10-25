@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Version>1.0.0</Version>
+    <OutputPath>bin\$(Configuration)\SPT_Runtime\user\mods\$(ProjectName)\$(AssemblyName)\</OutputPath>
+	<PreserveCompilationContext>false</PreserveCompilationContext>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <GenerateDependencyFile>false</GenerateDependencyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="config\**">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SPTushonka.Common" Version="4.1.2" />
+    <PackageReference Include="SPTushonka.DI" Version="4.1.2" />
+    <PackageReference Include="SPTushonka.Reflection" Version="4.1.2" />
+    <PackageReference Include="SPTushonka.Server.Core" Version="4.1.2" />
+  </ItemGroup>
+
+</Project>
