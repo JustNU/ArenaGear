@@ -5,7 +5,7 @@
         "handbookParentId": "5b5f6f6c86f774093f2ecf0b",
         "overrideProperties": {
             "Prefab": {
-                "path": "JustNU/Backpacks/backpack_ryzhy_bag/item_equipment_backpack_ryzhy.bundle",
+                "path": "JustNU/ArenaGear/Backpacks/ryzhy_bag/ryzhy_bag_tan.bundle",
                 "rcid": ""
             },
             "Weight": 1.55,
@@ -61,7 +61,7 @@
         ],
         "locales": {
             "en": {
-                "name": "GP-5 gas mask bag",
+                "name": "GP-5 gas mask bag (Tan)",
                 "shortName": "Gas mask bag",
                 "description": "A simple bag of a difficult person."
             }
