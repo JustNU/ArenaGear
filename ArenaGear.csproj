@@ -5,7 +5,7 @@
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
 		<Version>1.0.0</Version>
-		<OutputPath>bin\$(Configuration)\SPT_Runtime\user\mods\$(ProjectName)\$(AssemblyName)\</OutputPath>
+		<OutputPath>bin\$(Configuration)\JustNU-$(AssemblyName)-$(version)\SPT_Runtime\user\mods\$(ProjectName)\JustNU-$(AssemblyName)\</OutputPath>
 		<PreserveCompilationContext>false</PreserveCompilationContext>
 		<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
 	</PropertyGroup>
