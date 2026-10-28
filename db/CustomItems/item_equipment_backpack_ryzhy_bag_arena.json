@@ -1,0 +1,70 @@
+{
+    "653277790e1cf7803b0812d4": {
+        "itemTplToClone": "56e33680d2720be2748b4576",
+        "parentId": "5448e53e4bdc2d60728b4567",
+        "handbookParentId": "5b5f6f6c86f774093f2ecf0b",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "JustNU/Backpacks/backpack_ryzhy_bag/item_equipment_backpack_ryzhy.bundle",
+                "rcid": ""
+            },
+            "Weight": 1.55,
+            "mousePenalty": 0,
+            "speedPenaltyPercent": 0,
+            "weaponErgonomicPenalty": -2,
+            "Width": 2,
+            "Height": 3,
+            "Grids": [
+                {
+                    "_id": "6adf42835e385916fcf599e6",
+                    "_name": "main",
+                    "_parent": "653277790e1cf7803b0812d4",
+                    "_props": {
+                        "cellsH": 2,
+                        "cellsV": 3,
+                        "filters": [
+                            {
+                                "ExcludedFilter": [],
+                                "Filter": [
+                                    "54009119af1c881c07000029"
+                                ]
+                            }
+                        ],
+                        "isSortingTable": false,
+                        "maxCount": 0,
+                        "maxWeight": 0,
+                        "minCount": 0
+                    },
+                    "_proto": "55d329c24bdc2d892f8b4567"
+                }
+            ]
+        },
+        "handbookPriceRoubles": 7650,
+        "fleaPriceRoubles": 13818,
+        "staticLootContainers": [
+            {
+                "containerName": "5909d76c86f77471e53d2adf",
+                "probability": 67
+            },
+            {
+                "containerName": "5909d7cf86f77470ee57d75a",
+                "probability": 143
+            },
+            {
+                "containerName": "5909d89086f77472591234a0",
+                "probability": 120
+            },
+            {
+                "containerName": "5d6d2b5486f774785c2ba8ea",
+                "probability": 393
+            }
+        ],
+        "locales": {
+            "en": {
+                "name": "GP-5 gas mask bag",
+                "shortName": "Gas mask bag",
+                "description": "A simple bag of a difficult person."
+            }
+        }
+    }
+}

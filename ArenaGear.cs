@@ -33,5 +33,7 @@ public class ArenaGearServer(
         Assembly assembly = Assembly.GetExecutingAssembly();
 
         await wttCommon.CustomItemServiceExtended.CreateCustomItems(assembly);
+        await wttCommon.CustomBotLoadoutService.CreateCustomBotLoadouts(assembly);
+        await wttCommon.CustomAssortSchemeService.CreateCustomAssortSchemes(assembly);
     }   
 }
