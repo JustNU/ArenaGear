@@ -41,24 +41,6 @@
         },
         "handbookPriceRoubles": 7650,
         "fleaPriceRoubles": 13818,
-        "staticLootContainers": [
-            {
-                "containerName": "5909d76c86f77471e53d2adf",
-                "probability": 67
-            },
-            {
-                "containerName": "5909d7cf86f77470ee57d75a",
-                "probability": 143
-            },
-            {
-                "containerName": "5909d89086f77472591234a0",
-                "probability": 120
-            },
-            {
-                "containerName": "5d6d2b5486f774785c2ba8ea",
-                "probability": 393
-            }
-        ],
         "locales": {
             "en": {
                 "name": "GP-5 gas mask bag (Tan)",

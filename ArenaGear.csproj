@@ -27,6 +27,9 @@
 		<Content Include="db\**">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
 		</Content>
+		<Content Include=".\config.jsonc">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</Content>
 	</ItemGroup>
 	
 	<ItemGroup>
@@ -39,6 +42,7 @@
 	
 	<ItemGroup>
 	  <Folder Include="db\CustomAssortSchemes\" />
+	  <Folder Include="db\CustomBotLoadouts\" />
 	</ItemGroup>
 	
 </Project>

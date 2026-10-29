@@ -1,0 +1,14 @@
+{
+	"653277790e1cf7803b0812d4": {
+		"copyFrom": "56e33680d2720be2748b4576",
+		"weightMult": 1.05
+	},
+	"67dd38986205be431305a0f7": {
+		"copyFrom": "5efb0c1bd79ff02a1f5e68d9",
+		"weightMult": 1.0
+	},
+	"67dd3940dbbae4a9e701b0b7": {
+		"copyFrom": "5e023d48186a883be655e551",
+		"weightMult": 1.0
+	}
+}
