@@ -22,5 +22,13 @@
 	"67aee7b17db706ad6b06ad37": {
 		"copyFrom": "5b432b2f5acfc4771e1c6622",
 		"weightMult": 0.5
+	},
+	"6ae45a7e0856dd3fe0ca3461": {
+		"copyFrom": "648984e3f09d032aa9399d53",
+		"weightMult": 0.95
+	},
+	"6ae458cf0856dd3fe0c92e0e": {
+		"copyFrom": "648984b8d5b4df6140000a1a",
+		"weightMult": 0.95
 	}
 }

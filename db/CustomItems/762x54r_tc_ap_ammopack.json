@@ -1,0 +1,36 @@
+{
+    "6ae458cf0856dd3fe0c92e0e": {
+        "itemTplToClone": "648984b8d5b4df6140000a1a",
+        "parentId": "543be5cb4bdc2deb348b4568",
+        "handbookParentId": "5b47574386f77428ca22b33c",
+        "overrideProperties": {
+            "StackSlots": [
+                {
+                    "_id": "6ae459850856dd3fe0c99f6f",
+                    "_max_count": 20,
+                    "_name": "cartridges",
+                    "_parent": "6ae458cf0856dd3fe0c92e0e",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "67dd3940dbbae4a9e701b0b7"
+                                ]
+                            }
+                        ]
+                    },
+                    "_proto": "5748538b2459770af276a261"
+                }
+            ]
+        },
+        "handbookPriceRoubles": 1000,
+        "fleaPriceRoubles": 37620,
+        "locales": {
+            "en": {
+                "name": "7.62x54mm R Tungsten Carbide AP ammo pack (20 pcs)",
+                "shortName": "TC AP",
+                "description": "A pack of 7.62x54 R Tungsten Carbide AP ammo, 20 rounds."
+            }
+        }
+    }
+}

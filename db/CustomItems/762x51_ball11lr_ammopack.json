@@ -1,0 +1,36 @@
+{
+    "6ae45a7e0856dd3fe0ca3461": {
+        "itemTplToClone": "648984e3f09d032aa9399d53",
+        "parentId": "543be5cb4bdc2deb348b4568",
+        "handbookParentId": "5b47574386f77428ca22b33c",
+        "overrideProperties": {
+            "StackSlots": [
+                {
+                    "_id": "6ae45a7e0856dd3fe0ca3460",
+                    "_max_count": 20,
+                    "_name": "cartridges",
+                    "_parent": "6ae45a7e0856dd3fe0ca3461",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "67dd38986205be431305a0f7"
+                                ]
+                            }
+                        ]
+                    },
+                    "_proto": "5748538b2459770af276a261"
+                }
+            ]
+        },
+        "handbookPriceRoubles": 1000,
+        "fleaPriceRoubles": 32737,
+        "locales": {
+            "en": {
+                "name": "7.62x51mm Ball 11 Long Range ammo pack (20 pcs)",
+                "shortName": "Ball 11 LR",
+                "description": "A pack of 7.62x51mm Ball 11 Long Range ammo, 20 rounds."
+            }
+        }
+    }
+}
