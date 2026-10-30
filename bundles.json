@@ -31,6 +31,14 @@
 				"cubemaps",
 				"shaders"
 			]
+		},
+		{
+			"key": "JustNU/ArenaGear/Glasses/Gascan_Glasses/gascan_glasses_winter.bundle",
+			"dependencyKeys": [
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"cubemaps",
+				"shaders"
+			]
 		}
 	]
 }

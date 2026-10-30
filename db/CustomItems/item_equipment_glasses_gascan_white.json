@@ -1,0 +1,22 @@
+{
+    "675ffec518a4418c2e08c026": {
+        "itemTplToClone": "5d6d2e22a4b9361bd5780d05",
+        "parentId": "5448e5724bdc2ddf718b4568",
+        "handbookParentId": "5b47574386f77428ca22b331",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "JustNU/ArenaGear/Glasses/Gascan_Glasses/gascan_glasses_winter.bundle",
+                "rcid": ""
+            }
+        },
+        "handbookPriceRoubles": 5600,
+        "fleaPriceRoubles": 10449,
+        "locales": {
+            "en": {
+                "name": "Oakley SI Gascan White glasses",
+                "shortName": "G.White",
+                "description": "Ballistic shooting glasses. They not only protect your eyes, but also emphasize your unique style."
+            }
+        }
+    }
+}
