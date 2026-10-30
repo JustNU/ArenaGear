@@ -1,0 +1,22 @@
+{
+    "67aee7897db706ad6b06ad35": {
+        "itemTplToClone": "5b432b2f5acfc4771e1c6622",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "JustNU/ArenaGear/FaceCovers/ShatteredMask/shatteredmask_gladiator01_steelcorinthian.bundle",
+                "rcid": ""
+            }
+        },
+        "handbookPriceRoubles": 7500,
+        "fleaPriceRoubles": 18657,
+        "locales": {
+            "en": {
+                "name": "Arena Hoplite mask (Steel Corinthian)",
+                "shortName": "Hoplite",
+                "description": "A face protection mask with a special print, reinforced with aramid fibers. A mark with which Ref marks his chosen gladiators."
+            }
+        }
+    }
+}

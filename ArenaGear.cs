@@ -59,9 +59,6 @@ namespace ArenaGear
 
             if (Config.addToBots) AddToBots(cancellationToken);
 
-            if (Config.verboseLogging) logger.Info($"sanity check 1, on a scav: {botTable.Types["assault"].BotInventory.Equipment[SPTarkov.Server.Core.Models.Enums.EquipmentSlots.Backpack]["653277790e1cf7803b0812d4"]}.");
-            if (Config.verboseLogging) logger.Info($"sanity check 2, on labs: {locationTable.Laboratory.StaticAmmo["Caliber762x51"].FirstOrDefault(entry => entry.Tpl == "67dd38986205be431305a0f7")}.");
-
             return Task.CompletedTask;
         }
 
@@ -86,7 +83,7 @@ namespace ArenaGear
 
                                     lazyloadedStaticLootData[containerId].ItemDistribution.AddItem(itemToAdd);
 
-                                    if (Config.verboseLogging) logger.Info($"Added {customItemId} to container {containerId} on map {locationId} with weight off {itemToAdd.RelativeProbability}");
+                                    if (Config.verboseLogging) logger.Info($"ArenaGear: Added {customItemId} to container {containerId} on map {locationId} with weight of {itemToAdd.RelativeProbability}");
                                 }
                             }
 
@@ -107,7 +104,7 @@ namespace ArenaGear
 
                                 locationData?.StaticAmmo[calibre].AddItem(itemToAdd);
 
-                                if (Config.verboseLogging) logger.Info($"Added {customItemId} to {calibre} on map {locationId} with weight off {itemToAdd.RelativeProbability}");
+                                if (Config.verboseLogging) logger.Info($"ArenaGear: Added {customItemId} to {calibre} on map {locationId} with weight of {itemToAdd.RelativeProbability}");
                             }
                         }
                     }

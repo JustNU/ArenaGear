@@ -10,5 +10,17 @@
 	"67dd3940dbbae4a9e701b0b7": {
 		"copyFrom": "5e023d48186a883be655e551",
 		"weightMult": 1.0
+	},
+	"67aee7897db706ad6b06ad35": {
+		"copyFrom": "5b432b2f5acfc4771e1c6622",
+		"weightMult": 0.5
+	},
+	"67aee7a0aee46887f40be3fb": {
+		"copyFrom": "5b432b2f5acfc4771e1c6622",
+		"weightMult": 0.5
+	},
+	"67aee7b17db706ad6b06ad37": {
+		"copyFrom": "5b432b2f5acfc4771e1c6622",
+		"weightMult": 0.5
 	}
 }

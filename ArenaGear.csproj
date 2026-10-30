@@ -40,9 +40,4 @@
 		<PackageReference Include="WTT-ServerCommonLib" Version="3.0.6" />
 	</ItemGroup>
 	
-	<ItemGroup>
-	  <Folder Include="db\CustomAssortSchemes\" />
-	  <Folder Include="db\CustomBotLoadouts\" />
-	</ItemGroup>
-	
 </Project>

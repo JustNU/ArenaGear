@@ -1,12 +1,36 @@
 {
-  "manifest": [
-    {
-      "key": "JustNU/ArenaGear/Backpacks/ryzhy_bag/ryzhy_bag_tan.bundle",
-      "dependencyKeys": [
-		"assets/commonassets/physics/physicsmaterials.bundle",
-        "cubemaps",
-        "shaders"
-      ]
-    }
-  ]
+	"manifest": [
+		{
+			"key": "JustNU/ArenaGear/Backpacks/ryzhy_bag/ryzhy_bag_tan.bundle",
+			"dependencyKeys": [
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"cubemaps",
+				"shaders"
+			]
+		},
+		{
+			"key": "JustNU/ArenaGear/FaceCovers/ShatteredMask/shatteredmask_gladiator01_steelcorinthian.bundle",
+			"dependencyKeys": [
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"cubemaps",
+				"shaders"
+			]
+		},
+		{
+			"key": "JustNU/ArenaGear/FaceCovers/ShatteredMask/shatteredmask_gladiator02_grimcorinthian.bundle",
+			"dependencyKeys": [
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"cubemaps",
+				"shaders"
+			]
+		},
+		{
+			"key": "JustNU/ArenaGear/FaceCovers/ShatteredMask/shatteredmask_gladiator03_ancientcorinthian.bundle",
+			"dependencyKeys": [
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"cubemaps",
+				"shaders"
+			]
+		}
+	]
 }
