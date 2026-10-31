@@ -5,7 +5,7 @@
         "handbookParentId": "5b5f6f6c86f774093f2ecf0b",
         "overrideProperties": {
             "Prefab": {
-                "path": "JustNU/ArenaGear/Backpacks/ryzhy_bag/ryzhy_bag_tan.bundle",
+                "path": "JustNU/ArenaGear/Backpacks/Ryzhy_Bag/ryzhybag_tan.bundle",
                 "rcid": ""
             },
             "Weight": 1.55,

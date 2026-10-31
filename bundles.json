@@ -1,7 +1,7 @@
 {
 	"manifest": [
 		{
-			"key": "JustNU/ArenaGear/Backpacks/ryzhy_bag/ryzhy_bag_tan.bundle",
+			"key": "JustNU/ArenaGear/Backpacks/Ryzhy_Bag/ryzhybag_tan.bundle",
 			"dependencyKeys": [
 				"assets/commonassets/physics/physicsmaterials.bundle",
 				"cubemaps",
@@ -9,7 +9,7 @@
 			]
 		},
 		{
-			"key": "JustNU/ArenaGear/FaceCovers/ShatteredMask/shatteredmask_gladiator01_steelcorinthian.bundle",
+			"key": "JustNU/ArenaGear/FaceCovers/Shattered_Mask/shatteredmask_steelcorinthian.bundle",
 			"dependencyKeys": [
 				"assets/commonassets/physics/physicsmaterials.bundle",
 				"cubemaps",
@@ -17,7 +17,7 @@
 			]
 		},
 		{
-			"key": "JustNU/ArenaGear/FaceCovers/ShatteredMask/shatteredmask_gladiator02_grimcorinthian.bundle",
+			"key": "JustNU/ArenaGear/FaceCovers/Shattered_Mask/shatteredmask_grimcorinthian.bundle",
 			"dependencyKeys": [
 				"assets/commonassets/physics/physicsmaterials.bundle",
 				"cubemaps",
@@ -25,7 +25,7 @@
 			]
 		},
 		{
-			"key": "JustNU/ArenaGear/FaceCovers/ShatteredMask/shatteredmask_gladiator03_ancientcorinthian.bundle",
+			"key": "JustNU/ArenaGear/FaceCovers/Shattered_Mask/shatteredmask_ancientcorinthian.bundle",
 			"dependencyKeys": [
 				"assets/commonassets/physics/physicsmaterials.bundle",
 				"cubemaps",
@@ -33,7 +33,7 @@
 			]
 		},
 		{
-			"key": "JustNU/ArenaGear/Glasses/Gascan_Glasses/gascan_glasses_winter.bundle",
+			"key": "JustNU/ArenaGear/Glasses/Gascan_Glasses/gascanglasses_winter.bundle",
 			"dependencyKeys": [
 				"assets/commonassets/physics/physicsmaterials.bundle",
 				"cubemaps",
@@ -41,7 +41,15 @@
 			]
 		},
 		{
-			"key": "JustNU/ArenaGear/FaceCovers/HalfMask_Shroud/halfmask_shroud_winter.bundle",
+			"key": "JustNU/ArenaGear/FaceCovers/Half_Mask_Shroud/halfmaskshroud_winter.bundle",
+			"dependencyKeys": [
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"cubemaps",
+				"shaders"
+			]
+		},
+		{
+			"key": "JustNU/ArenaGear/FaceCovers/Balaclava_Ryzhy/balaclavaryzhy_black.bundle",
 			"dependencyKeys": [
 				"assets/commonassets/physics/physicsmaterials.bundle",
 				"cubemaps",
