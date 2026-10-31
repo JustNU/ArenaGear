@@ -38,5 +38,9 @@
 	"675ffd9e82487feccd08c4da": {
 		"copyFrom": "572b7fa524597762b747ce82",
 		"weightMult": 0.25
+	},
+	"6532841a0e1cf7803b0812dd": {
+		"copyFrom": "572b7f1624597762ae139822",
+		"weightMult": 0.5
 	}
 }
