@@ -1,0 +1,22 @@
+{
+    "65ddeae866d3c1b9050957bc": {
+        "itemTplToClone": "572b7fa124597762b472f9d2",
+        "parentId": "5a341c4086f77401f2541505",
+        "handbookParentId": "5b47574386f77428ca22b330",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "JustNU/ArenaGear/HeadWear/Rolled_Up_Hat/rolleduphat_black.bundle",
+                "rcid": ""
+            }
+        },
+        "handbookPriceRoubles": 1070,
+        "fleaPriceRoubles": 34079,
+        "locales": {
+            "en": {
+                "name": "Rolled up hat (Black)",
+                "shortName": "Hat",
+                "description": "A regular hat with the edges turned up."
+            }
+        }
+    }
+}

@@ -41,6 +41,10 @@
 	},
 	"6532841a0e1cf7803b0812dd": {
 		"copyFrom": "572b7f1624597762ae139822",
-		"weightMult": 0.5
+		"weightMult": 0.25
+	},
+	"65ddeae866d3c1b9050957bc": {
+		"copyFrom": "572b7fa124597762b472f9d2",
+		"weightMult": 1
 	}
 }

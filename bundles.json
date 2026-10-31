@@ -55,6 +55,14 @@
 				"cubemaps",
 				"shaders"
 			]
+		},
+		{
+			"key": "JustNU/ArenaGear/HeadWear/Rolled_Up_Hat/rolleduphat_black.bundle",
+			"dependencyKeys": [
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"cubemaps",
+				"shaders"
+			]
 		}
 	]
 }
