@@ -13,15 +13,15 @@
 	},
 	"67aee7897db706ad6b06ad35": {
 		"copyFrom": "5b432b2f5acfc4771e1c6622",
-		"weightMult": 0.5
+		"weightMult": 0.33
 	},
 	"67aee7a0aee46887f40be3fb": {
 		"copyFrom": "5b432b2f5acfc4771e1c6622",
-		"weightMult": 0.5
+		"weightMult": 0.33
 	},
 	"67aee7b17db706ad6b06ad37": {
 		"copyFrom": "5b432b2f5acfc4771e1c6622",
-		"weightMult": 0.5
+		"weightMult": 0.33
 	},
 	"6ae45a7e0856dd3fe0ca3461": {
 		"copyFrom": "648984e3f09d032aa9399d53",
@@ -34,5 +34,9 @@
 	"675ffec518a4418c2e08c026": {
 		"copyFrom": "5d6d2e22a4b9361bd5780d05",
 		"weightMult": 0.5
+	},
+	"675ffd9e82487feccd08c4da": {
+		"copyFrom": "572b7fa524597762b747ce82",
+		"weightMult": 0.25
 	}
 }

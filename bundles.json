@@ -39,6 +39,14 @@
 				"cubemaps",
 				"shaders"
 			]
+		},
+		{
+			"key": "JustNU/ArenaGear/FaceCovers/HalfMask_Shroud/halfmask_shroud_winter.bundle",
+			"dependencyKeys": [
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"cubemaps",
+				"shaders"
+			]
 		}
 	]
 }

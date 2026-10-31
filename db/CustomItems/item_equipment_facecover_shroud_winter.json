@@ -1,0 +1,22 @@
+{
+    "675ffd9e82487feccd08c4da": {
+        "itemTplToClone": "67a5f917dfdf568c9009af6b",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "JustNU/ArenaGear/FaceCovers/HalfMask_Shroud/halfmask_shroud_winter.bundle",
+                "rcid": ""
+            }
+        },
+        "handbookPriceRoubles": 13046,
+        "fleaPriceRoubles": 19569,
+        "locales": {
+            "en": {
+                "name": "Winter halfmask",
+                "shortName": "Winter",
+                "description": "Stylish half mask with the Winter logo."
+            }
+        }
+    }
+}
