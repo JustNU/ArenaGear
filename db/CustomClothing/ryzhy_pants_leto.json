@@ -1,0 +1,23 @@
+[
+    {
+        "type": "bottom",
+        "suiteId": "6ae6859714111412dc71a062",
+        "outfitId": "6ae6859714111412dc71a063",
+        "bottomId": "6ae6859714111412dc71a064",
+        "locales": {
+            "en": {
+                "name": "SCAV Ryzhy's Pants'",
+                "description": "SS Leto"
+            }
+        },
+        "bottomBundlePath": "JustNU/ArenaGear/Clothing/Lowers/Ryzhy_Pants/ryzhypants_leto.bundle",
+        "traderId": "6617beeaa9cfa777ca915b7c",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5d235b4d86f7742e017bc88a",
+        "price": 10,
+        "questRequirements": [],
+        "achievementRequirements": []
+    }
+]

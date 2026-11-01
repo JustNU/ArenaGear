@@ -52,12 +52,17 @@ namespace ArenaGear
             if (Config.verboseLogging) logger.Info($"ArenaGear Verbose Logging is on! Please turn it off unless you are trying to report an issue.");
 
             wttCommon.CustomItemServiceExtended.CreateCustomItems(assembly);
+            wttCommon.CustomClothingService.CreateCustomClothing(assembly);
 
             if (Config.addToTraders) wttCommon.CustomAssortSchemeService.CreateCustomAssortSchemes(assembly);
 
             if (Config.AddAsLoot) AddLoot(cancellationToken);
 
-            if (Config.addToBots) AddToBots(cancellationToken);
+            if (Config.addToBots)
+            {
+                AddToBots(cancellationToken);
+                wttCommon.CustomBotLoadoutService.CreateCustomBotLoadouts(assembly);
+            }
 
             return Task.CompletedTask;
         }

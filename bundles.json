@@ -63,6 +63,13 @@
 				"cubemaps",
 				"shaders"
 			]
+		},
+		{
+			"key": "JustNU/ArenaGear/Clothing/Lowers/Ryzhy_Pants/ryzhypants_leto.bundle",
+			"dependencyKeys": [
+				"cubemaps",
+				"shaders"
+			]
 		}
 	]
 }
