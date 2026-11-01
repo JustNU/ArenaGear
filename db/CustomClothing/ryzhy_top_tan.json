@@ -1,0 +1,25 @@
+[
+    {
+        "type": "top",
+        "suiteId": "6ae6c1d5dd029059006c8405",
+        "outfitId": "6ae6c1d5dd029059006c8406",
+        "topId": "6ae6c1d5dd029059006c8407",
+        "handsId": "6ae6c1d5dd029059006c8408",
+        "locales": {
+            "en": {
+                "name": "SCAV Ryzhy's Gorka'",
+                "description": "Tan"
+            }
+        },
+        "topBundlePath": "JustNU/ArenaGear/Clothing/Uppers/Ryzhy_Top/ryzhytop_tan.bundle",
+        "handsBundlePath": "JustNU/ArenaGear/Clothing/Uppers/Ryzhy_Top/ryzhytop_tan_hands.bundle",
+        "traderId": "6617beeaa9cfa777ca915b7c",
+        "loyaltyLevel": 1,
+        "profileLevel": 1,
+        "standing": 0,
+        "currencyId": "5d235b4d86f7742e017bc88a",
+        "price": 10,
+        "questRequirements": [],
+        "achievementRequirements": []
+    }
+]

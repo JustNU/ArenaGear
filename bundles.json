@@ -70,6 +70,20 @@
 				"cubemaps",
 				"shaders"
 			]
+		},
+		{
+			"key": "JustNU/ArenaGear/Clothing/Uppers/Ryzhy_Top/ryzhytop_tan.bundle",
+			"dependencyKeys": [
+				"cubemaps",
+				"shaders"
+			]
+		},
+		{
+			"key": "JustNU/ArenaGear/Clothing/Uppers/Ryzhy_Top/ryzhytop_tan_hands.bundle",
+			"dependencyKeys": [
+				"cubemaps",
+				"shaders"
+			]
 		}
 	]
 }
