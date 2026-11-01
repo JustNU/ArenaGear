@@ -7,7 +7,33 @@
             "Prefab": {
                 "path": "JustNU/ArenaGear/HeadWear/Rolled_Up_Hat/rolleduphat_black.bundle",
                 "rcid": ""
-            }
+            },
+            "ConflictingItems": [
+                "6a0e253fd13347b5a6305306",
+                "5ab8f85d86f7745cd93a1cf5",
+                "5b4325355acfc40019478126",
+                "6176a48d732a664031271438",
+                "6532841a0e1cf7803b0812dd",
+                "66326bfd46817c660d01513f",
+                "66326bfd46817c660d01513e",
+                "66326bfd46817c660d015140",
+                "66326bfd46817c660d015130",
+                "66326bfd46817c660d01514e",
+                "66326bfd46817c660d015131",
+                "66326bfd46817c660d015132",
+                "66326bfd46817c660d015141",
+                "668bc5cd834c88e06b08b6a8",
+                "66326bfd46817c660d01514f",
+                "6673b1ac5cae0610f1079d73",
+                "6673b1ac5cae0610f1079d75",
+                "6673b1ac5cae0610f1079d74",
+                "66bf757f27d0b097db0ace6d",
+                "672e2e7504b1f1d5b0e4209c",
+                "672e2e756803734b60f5ac1e",
+                "672e2e75ec239cfca3bedf6d",
+                "689b880fff8b4adc420f5b56",
+                "c544b1b34703aebab8ee0e5c"
+            ]
         },
         "handbookPriceRoubles": 1070,
         "fleaPriceRoubles": 34079,

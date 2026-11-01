@@ -7,7 +7,18 @@
             "Prefab": {
                 "path": "JustNU/ArenaGear/Glasses/Gascan_Glasses/gascanglasses_winter.bundle",
                 "rcid": ""
-            }
+            },
+            "ConflictingItems": [
+                "5bd071d786f7747e707b93a3",
+                "66326bfd46817c660d015130",
+                "66326bfd46817c660d01514e",
+                "6770852638b652c9b4e588a9",
+                "66326bfd46817c660d01513f",
+                "66326bfd46817c660d01513e",
+                "66326bfd46817c660d015140",
+                "66326bfd46817c660d015141",
+                "668bc5cd834c88e06b08b6a8"
+            ]
         },
         "handbookPriceRoubles": 5600,
         "fleaPriceRoubles": 10449,
