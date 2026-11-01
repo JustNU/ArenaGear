@@ -5,7 +5,7 @@
         "handbookParentId": "5b47574386f77428ca22b330",
         "overrideProperties": {
             "Prefab": {
-                "path": "JustNU/ArenaGear/HeadWear/Rolled_Up_Hat/rolleduphat_black.bundle",
+                "path": "justnu/arenagear/headwear/rolled_up_hat/rolleduphat_black.bundle",
                 "rcid": ""
             },
             "ConflictingItems": [

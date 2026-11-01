@@ -5,7 +5,7 @@
         "handbookParentId": "5b47574386f77428ca22b32f",
         "overrideProperties": {
             "Prefab": {
-                "path": "JustNU/ArenaGear/FaceCovers/Shattered_Mask/shatteredmask_steelcorinthian.bundle",
+                "path": "justnu/arenagear/facecovers/shattered_mask/shatteredmask_steelcorinthian.bundle",
                 "rcid": ""
             },
             "ConflictingItems": [

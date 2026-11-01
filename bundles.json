@@ -1,7 +1,7 @@
 {
 	"manifest": [
 		{
-			"key": "JustNU/ArenaGear/Backpacks/Ryzhy_Bag/ryzhybag_tan.bundle",
+			"key": "justnu/arenagear/backpacks/ryzhy_bag/ryzhybag_tan.bundle",
 			"dependencyKeys": [
 				"assets/commonassets/physics/physicsmaterials.bundle",
 				"cubemaps",
@@ -9,7 +9,7 @@
 			]
 		},
 		{
-			"key": "JustNU/ArenaGear/FaceCovers/Shattered_Mask/shatteredmask_steelcorinthian.bundle",
+			"key": "justnu/arenagear/facecovers/shattered_mask/shatteredmask_steelcorinthian.bundle",
 			"dependencyKeys": [
 				"assets/commonassets/physics/physicsmaterials.bundle",
 				"cubemaps",
@@ -17,7 +17,7 @@
 			]
 		},
 		{
-			"key": "JustNU/ArenaGear/FaceCovers/Shattered_Mask/shatteredmask_grimcorinthian.bundle",
+			"key": "justnu/arenagear/facecovers/shattered_mask/shatteredmask_grimcorinthian.bundle",
 			"dependencyKeys": [
 				"assets/commonassets/physics/physicsmaterials.bundle",
 				"cubemaps",
@@ -25,7 +25,7 @@
 			]
 		},
 		{
-			"key": "JustNU/ArenaGear/FaceCovers/Shattered_Mask/shatteredmask_ancientcorinthian.bundle",
+			"key": "justnu/arenagear/facecovers/shattered_mask/shatteredmask_ancientcorinthian.bundle",
 			"dependencyKeys": [
 				"assets/commonassets/physics/physicsmaterials.bundle",
 				"cubemaps",
@@ -33,7 +33,7 @@
 			]
 		},
 		{
-			"key": "JustNU/ArenaGear/Glasses/Gascan_Glasses/gascanglasses_winter.bundle",
+			"key": "justnu/arenagear/glasses/gascan_glasses/gascanglasses_winter.bundle",
 			"dependencyKeys": [
 				"assets/commonassets/physics/physicsmaterials.bundle",
 				"cubemaps",
@@ -41,7 +41,7 @@
 			]
 		},
 		{
-			"key": "JustNU/ArenaGear/FaceCovers/Half_Mask_Shroud/halfmaskshroud_winter.bundle",
+			"key": "justnu/arenagear/facecovers/half_mask_shroud/halfmaskshroud_winter.bundle",
 			"dependencyKeys": [
 				"assets/commonassets/physics/physicsmaterials.bundle",
 				"cubemaps",
@@ -49,7 +49,7 @@
 			]
 		},
 		{
-			"key": "JustNU/ArenaGear/FaceCovers/Balaclava_Ryzhy/balaclavaryzhy_black.bundle",
+			"key": "justnu/arenagear/facecovers/balaclava_ryzhy/balaclavaryzhy_black.bundle",
 			"dependencyKeys": [
 				"assets/commonassets/physics/physicsmaterials.bundle",
 				"cubemaps",
@@ -57,7 +57,7 @@
 			]
 		},
 		{
-			"key": "JustNU/ArenaGear/HeadWear/Rolled_Up_Hat/rolleduphat_black.bundle",
+			"key": "justnu/arenagear/headwear/rolled_up_hat/rolleduphat_black.bundle",
 			"dependencyKeys": [
 				"assets/commonassets/physics/physicsmaterials.bundle",
 				"cubemaps",
@@ -65,21 +65,21 @@
 			]
 		},
 		{
-			"key": "JustNU/ArenaGear/Clothing/Lowers/Ryzhy_Pants/ryzhypants_leto.bundle",
+			"key": "justnu/arenagear/clothing/lowers/ryzhy_pants/ryzhypants_leto.bundle",
 			"dependencyKeys": [
 				"cubemaps",
 				"shaders"
 			]
 		},
 		{
-			"key": "JustNU/ArenaGear/Clothing/Uppers/Ryzhy_Top/ryzhytop_tan.bundle",
+			"key": "justnu/arenagear/clothing/uppers/ryzhy_top/ryzhytop_tan/ryzhytop_tan_top.bundle",
 			"dependencyKeys": [
 				"cubemaps",
 				"shaders"
 			]
 		},
 		{
-			"key": "JustNU/ArenaGear/Clothing/Uppers/Ryzhy_Top/ryzhytop_tan_hands.bundle",
+			"key": "justnu/arenagear/clothing/uppers/ryzhy_top/ryzhytop_tan/ryzhytop_tan_hands.bundle",
 			"dependencyKeys": [
 				"cubemaps",
 				"shaders"

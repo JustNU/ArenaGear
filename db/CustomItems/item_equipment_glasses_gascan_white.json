@@ -5,7 +5,7 @@
         "handbookParentId": "5b47574386f77428ca22b331",
         "overrideProperties": {
             "Prefab": {
-                "path": "JustNU/ArenaGear/Glasses/Gascan_Glasses/gascanglasses_winter.bundle",
+                "path": "justnu/arenagear/glasses/gascan_glasses/gascanglasses_winter.bundle",
                 "rcid": ""
             },
             "ConflictingItems": [

@@ -11,8 +11,8 @@
                 "description": "Tan"
             }
         },
-        "topBundlePath": "JustNU/ArenaGear/Clothing/Uppers/Ryzhy_Top/ryzhytop_tan.bundle",
-        "handsBundlePath": "JustNU/ArenaGear/Clothing/Uppers/Ryzhy_Top/ryzhytop_tan_hands.bundle",
+        "topBundlePath": "justnu/arenagear/clothing/uppers/ryzhy_top/ryzhytop_tan/ryzhytop_tan_top.bundle",
+        "handsBundlePath": "justnu/arenagear/clothing/uppers/ryzhy_top/ryzhytop_tan/ryzhytop_tan_hands.bundle",
         "traderId": "6617beeaa9cfa777ca915b7c",
         "loyaltyLevel": 1,
         "profileLevel": 1,
