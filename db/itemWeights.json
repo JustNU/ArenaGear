@@ -33,7 +33,7 @@
 	},
 	"675ffec518a4418c2e08c026": {
 		"copyFrom": "5d6d2e22a4b9361bd5780d05",
-		"weightMult": 0.5
+		"weightMult": 1
 	},
 	"675ffd9e82487feccd08c4da": {
 		"copyFrom": "572b7fa524597762b747ce82",
@@ -41,7 +41,7 @@
 	},
 	"6532841a0e1cf7803b0812dd": {
 		"copyFrom": "572b7f1624597762ae139822",
-		"weightMult": 0.25
+		"weightMult": 0.75
 	},
 	"65ddeae866d3c1b9050957bc": {
 		"copyFrom": "572b7fa124597762b472f9d2",
@@ -53,6 +53,6 @@
 	},
 	"6ae7ee411b52031660e4462f": {
 		"copyFrom": "5b3f3b0186f774021a2afef7",
-		"weightMult": 0.5
+		"weightMult": 1
 	}
 }
