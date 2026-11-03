@@ -1,0 +1,28 @@
+{
+    "6ae764352e6dfb431c9a69e9": {
+        "itemTplToClone": "5e9dcf5986f7746c417435b3",
+        "parentId": "5448e53e4bdc2d60728b4567",
+        "handbookParentId": "5b5f6f6c86f774093f2ecf0b",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "justnu/arenagear/backpacks/nice_comm3_arena/nicecomm3arena_blastgangtan.bundle",
+                "rcid": ""
+            },
+            "Weight": 2.64,
+            "mousePenalty": -1,
+            "speedPenaltyPercent": -2,
+            "weaponErgonomicPenalty": -2,
+            "Width": 4,
+            "Height": 5
+        },
+        "handbookPriceRoubles": 23730,
+        "fleaPriceRoubles": 29791,
+        "locales": {
+            "en": {
+                "name": "Mystery Ranch NICE COMM 3 BVS frame system (Radioless, BlastGang Tan)",
+                "shortName": "BlastGang",
+                "description": "A backpack with a special device used by Arena gladiators in BlastGang mode. The backpack must be carried to one of the installation spots, planted and defended until the device timer counts down. Lacks any internal radio equipment, making it usable as a regular backpack."
+            }
+        }
+    }
+}

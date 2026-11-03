@@ -84,6 +84,14 @@
 				"cubemaps",
 				"shaders"
 			]
+		},
+		{
+			"key": "justnu/arenagear/backpacks/nice_comm3_arena/nicecomm3arena_blastgangtan.bundle",
+			"dependencyKeys": [
+				"cubemaps",
+				"shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+			]
 		}
 	]
 }

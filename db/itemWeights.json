@@ -46,5 +46,9 @@
 	"65ddeae866d3c1b9050957bc": {
 		"copyFrom": "572b7fa124597762b472f9d2",
 		"weightMult": 1
+	},
+	"6ae764352e6dfb431c9a69e9": {
+		"copyFrom": "60a2828e8689911a226117f9",
+		"weightMult": 0.5
 	}
 }
