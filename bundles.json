@@ -105,6 +105,69 @@
 				"justnu/shared/armbands/double_armband/doublearmband_shared.bundle",
 				"assets/commonassets/physics/physicsmaterials.bundle"
 			]
+		},
+		{
+			"key": "justnu/arenagear/armbands/double_armband/doublearmband_azure.bundle",
+			"dependencyKeys": [
+				"cubemaps",
+				"shaders",
+				"justnu/shared/armbands/double_armband/doublearmband_shared.bundle",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+			]
+		},
+		{
+			"key": "justnu/arenagear/armbands/double_armband/doublearmband_brightblue.bundle",
+			"dependencyKeys": [
+				"cubemaps",
+				"shaders",
+				"justnu/shared/armbands/double_armband/doublearmband_shared.bundle",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+			]
+		},
+		{
+			"key": "justnu/arenagear/armbands/double_armband/doublearmband_brightred.bundle",
+			"dependencyKeys": [
+				"cubemaps",
+				"shaders",
+				"justnu/shared/armbands/double_armband/doublearmband_shared.bundle",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+			]
+		},
+		{
+			"key": "justnu/arenagear/armbands/double_armband/doublearmband_brightyellow.bundle",
+			"dependencyKeys": [
+				"cubemaps",
+				"shaders",
+				"justnu/shared/armbands/double_armband/doublearmband_shared.bundle",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+			]
+		},
+		{
+			"key": "justnu/arenagear/armbands/double_armband/doublearmband_orange.bundle",
+			"dependencyKeys": [
+				"cubemaps",
+				"shaders",
+				"justnu/shared/armbands/double_armband/doublearmband_shared.bundle",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+			]
+		},
+		{
+			"key": "justnu/arenagear/armbands/double_armband/doublearmband_pink.bundle",
+			"dependencyKeys": [
+				"cubemaps",
+				"shaders",
+				"justnu/shared/armbands/double_armband/doublearmband_shared.bundle",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+			]
+		},
+		{
+			"key": "justnu/arenagear/armbands/double_armband/doublearmband_purple.bundle",
+			"dependencyKeys": [
+				"cubemaps",
+				"shaders",
+				"justnu/shared/armbands/double_armband/doublearmband_shared.bundle",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+			]
 		}
 	]
 }
