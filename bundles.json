@@ -92,6 +92,19 @@
 				"shaders",
 				"assets/commonassets/physics/physicsmaterials.bundle"
 			]
+		},
+		{
+			"key": "justnu/shared/armbands/double_armband/doublearmband_shared.bundle",
+			"dependencyKeys": []
+		},
+		{
+			"key": "justnu/arenagear/armbands/double_armband/doublearmband_brightgreen.bundle",
+			"dependencyKeys": [
+				"cubemaps",
+				"shaders",
+				"justnu/shared/armbands/double_armband/doublearmband_shared.bundle",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+			]
 		}
 	]
 }

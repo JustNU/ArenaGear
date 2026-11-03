@@ -1,0 +1,23 @@
+{
+    "6ae7ee411b52031660e4462f": {
+        "itemTplToClone": "5b3f3b0186f774021a2afef7",
+        "parentId": "5b3f15d486f77432d0509248",
+        "handbookParentId": "5b5f704686f77447ec5d76d7",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "justnu/arenagear/armbands/double_armband/doublearmband_brightgreen.bundle",
+                "rcid": ""
+            },
+            "ConflictingItems": []
+        },
+        "handbookPriceRoubles": 1054,
+        "fleaPriceRoubles": 1054,
+        "locales": {
+            "en": {
+                "name": "Double Armband (Bight Green)",
+                "shortName": "B. Green",
+                "description": "Two bright green identification armbands."
+            }
+        }
+    }
+}
