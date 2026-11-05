@@ -49,7 +49,7 @@ namespace ArenaGear
             Config = modHelper.GetJsonDataFromFile<ModConfig>(System.IO.Path.Join(modPath), "config.jsonc");
             CustomItemWeights = modHelper.GetJsonDataFromFile<Dictionary<MongoId, ItemWeightsType>>(System.IO.Path.Join(modPath, "db"), "itemWeights.json");
 
-            if (Config.verboseLogging) logger.Info($"ArenaGear Verbose Logging is on! Please turn it off unless you are trying to report an issue.");
+            if (Config.verboseLogging) logger.Info($"ArenaGear: ArenaGear Verbose Logging is on! Please turn it off unless you are trying to report an issue.");
 
             wttCommon.CustomItemServiceExtended.CreateCustomItems(assembly);
             wttCommon.CustomClothingService.CreateCustomClothing(assembly);
@@ -125,10 +125,11 @@ namespace ArenaGear
 
             foreach (var (customItemId, customWeightInfo) in CustomItemWeights)
             {
-                if (Config.verboseLogging) logger.Info($"Logging customItemId {customItemId}, {customWeightInfo.copyFrom}, {customWeightInfo.weightMult}");
+                if (Config.verboseLogging) logger.Info($"ArenaGear: Logging customItemId {customItemId}, {customWeightInfo.copyFrom}, {customWeightInfo.weightMult}");
 
                 foreach (var (botType, data) in bots)
                 {
+                    // really ugly, rewrite later maybe
                     var botEquipment = bots[botType]?.BotInventory.Equipment;
                     var botAmmo = bots[botType]?.BotInventory.Ammo;
                     var botItems = bots[botType]?.BotInventory.Items;
@@ -144,7 +145,7 @@ namespace ArenaGear
                         if (botEquipment[slot].ContainsKey(customWeightInfo.copyFrom))
                         {
                             botEquipment[slot][customItemId] = Math.Ceiling(botEquipment[slot][customWeightInfo.copyFrom] * customWeightInfo.weightMult);
-                            if (Config.verboseLogging) logger.Info($"added {customItemId} to {slot} on {botType} with weight {Math.Ceiling(botEquipment[slot][customWeightInfo.copyFrom] * customWeightInfo.weightMult)}");
+                            if (Config.verboseLogging) logger.Info($"ArenaGear: added {customItemId} to {slot} on {botType} with weight {Math.Ceiling(botEquipment[slot][customWeightInfo.copyFrom] * customWeightInfo.weightMult)}");
                         }
                     }
 
@@ -153,38 +154,38 @@ namespace ArenaGear
                         if (botAmmo[calibre].ContainsKey(customWeightInfo.copyFrom))
                         {
                             botAmmo[calibre][customItemId] = Math.Ceiling(botAmmo[calibre][customWeightInfo.copyFrom] * customWeightInfo.weightMult);
-                            if (Config.verboseLogging) logger.Info($"added {customItemId} to {calibre} on {botType} with weight {Math.Ceiling(botAmmo[calibre][customWeightInfo.copyFrom] * customWeightInfo.weightMult)}");
+                            if (Config.verboseLogging) logger.Info($"ArenaGear: added {customItemId} to {calibre} on {botType} with weight {Math.Ceiling(botAmmo[calibre][customWeightInfo.copyFrom] * customWeightInfo.weightMult)}");
                         }
                     }
 
                     if (botItemsVest.ContainsKey(customWeightInfo.copyFrom))
                     {
                         botItemsVest[customItemId] = Math.Ceiling(botItemsVest[customWeightInfo.copyFrom] * customWeightInfo.weightMult);
-                        if (Config.verboseLogging) logger.Info($"added {customItemId} to botItemsVest on {botType} with weight {Math.Ceiling(botItemsVest[customWeightInfo.copyFrom] * customWeightInfo.weightMult)}");
+                        if (Config.verboseLogging) logger.Info($"ArenaGear: added {customItemId} to botItemsVest on {botType} with weight {Math.Ceiling(botItemsVest[customWeightInfo.copyFrom] * customWeightInfo.weightMult)}");
                     }
 
                     if (botItemsBackpack.ContainsKey(customWeightInfo.copyFrom))
                     {
                         botItemsBackpack[customItemId] = Math.Ceiling(botItemsBackpack[customWeightInfo.copyFrom] * customWeightInfo.weightMult);
-                        if (Config.verboseLogging) logger.Info($"added {customItemId} to botItemsBackpack on {botType} with weight {Math.Ceiling(botItemsBackpack[customWeightInfo.copyFrom] * customWeightInfo.weightMult)}");
+                        if (Config.verboseLogging) logger.Info($"ArenaGear: added {customItemId} to botItemsBackpack on {botType} with weight {Math.Ceiling(botItemsBackpack[customWeightInfo.copyFrom] * customWeightInfo.weightMult)}");
                     }
 
                     if (botItemsPockets.ContainsKey(customWeightInfo.copyFrom))
                     {
                         botItemsPockets[customItemId] = Math.Ceiling(botItemsPockets[customWeightInfo.copyFrom] * customWeightInfo.weightMult);
-                        if (Config.verboseLogging) logger.Info($"added {customItemId} to botItemsPockets on {botType} with weight {Math.Ceiling(botItemsPockets[customWeightInfo.copyFrom] * customWeightInfo.weightMult)}");
+                        if (Config.verboseLogging) logger.Info($"ArenaGear: added {customItemId} to botItemsPockets on {botType} with weight {Math.Ceiling(botItemsPockets[customWeightInfo.copyFrom] * customWeightInfo.weightMult)}");
                     }
 
                     if (botItemsSpecialLoot.ContainsKey(customWeightInfo.copyFrom))
                     {
                         botItemsSpecialLoot[customItemId] = Math.Ceiling(botItemsSpecialLoot[customWeightInfo.copyFrom] * customWeightInfo.weightMult);
-                        if (Config.verboseLogging) logger.Info($"added {customItemId} to botItemsSpecialLoot on {botType} with weight {Math.Ceiling(botItemsSpecialLoot[customWeightInfo.copyFrom] * customWeightInfo.weightMult)}");
+                        if (Config.verboseLogging) logger.Info($"ArenaGear: added {customItemId} to botItemsSpecialLoot on {botType} with weight {Math.Ceiling(botItemsSpecialLoot[customWeightInfo.copyFrom] * customWeightInfo.weightMult)}");
                     }
 
                     if (botItemsSecuredContainer.ContainsKey(customWeightInfo.copyFrom))
                     {
                         botItemsSecuredContainer[customItemId] = Math.Ceiling(botItemsSecuredContainer[customWeightInfo.copyFrom] * customWeightInfo.weightMult);
-                        if (Config.verboseLogging) logger.Info($"added {customItemId} to botItemsSecuredContainer on {botType} with weight {Math.Ceiling(botItemsSecuredContainer[customWeightInfo.copyFrom] * customWeightInfo.weightMult)}");
+                        if (Config.verboseLogging) logger.Info($"ArenaGear: added {customItemId} to botItemsSecuredContainer on {botType} with weight {Math.Ceiling(botItemsSecuredContainer[customWeightInfo.copyFrom] * customWeightInfo.weightMult)}");
                     }
                        
                     foreach (var (modTpl, slotData) in botMods)
