@@ -1,0 +1,22 @@
+{
+    "670fa9618f83118aed06c89b": {
+        "itemTplToClone": "617aa4dd8166f034d57de9c5",
+        "parentId": "543be6564bdc2df4348b4568",
+        "handbookParentId": "5b5f7a2386f774093f2ed3c4",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "justnu/arenagear/weapons/m18_smoke/weapon_grenade_m18_yellow_container.bundle",
+                "rcid": ""
+            }
+        },
+        "handbookPriceRoubles": 3500,
+        "fleaPriceRoubles": 13106,
+        "locales": {
+            "en": {
+                "name": "M18 smoke grenade (Yellow)",
+                "shortName": "M18",
+                "description": "The M18 smoke grenade made in the USA. Used in the US Army since the Second World War. The smoke is yellow-colored."
+            }
+        }
+    }
+}

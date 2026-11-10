@@ -168,6 +168,19 @@
 				"justnu/shared/armbands/double_armband/doublearmband_shared.bundle",
 				"assets/commonassets/physics/physicsmaterials.bundle"
 			]
+		},
+		{
+			"key": "justnu/arenagear/weapons/m18_smoke/weapon_grenade_m18_yellow_container.bundle",
+			"dependencyKeys": [
+				"shaders",
+				"cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/weapons/additional_hands/client_assets.bundle",
+				"assets/content/weapons/animations/simple_animations.bundle",
+				"assets/content/weapons/animations/spirit_animations.bundle",
+				"assets/content/weapons/rgd5/client_assets.bundle",
+				"assets/content/weapons/weapon_root_anim_fix.bundle"
+			]
 		}
 	]
 }
