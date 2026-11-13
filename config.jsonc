@@ -2,5 +2,5 @@
 	"addToTraders": true,
 	"addToBots": true,
 	"AddAsLoot": true,
-	"verboseLogging": true
+	"verboseLogging": false // spams the console like hell, dont turn this off unless i ask you to c:
 }
